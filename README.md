@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/33870994-5beb-4434-bc84-df574aac7794.svg)](https://wakatime.com/@33870994-5beb-4434-bc84-df574aac7794)
 <!--
 **mishimastar/mishimastar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
